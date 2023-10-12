@@ -1,0 +1,15 @@
+.red {
+    background-color: lightcoral; font-family: Verdana, "DejaVu Sans", "sans-sherif";
+}
+
+.two {
+    color: blue; font-size: 36px;
+}
+
+.red#three {
+    font-size: 24px;
+}
+
+.four {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
